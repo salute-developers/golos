@@ -6,15 +6,15 @@ Also we create 3-gram KenLM language model using an open Common Crawl corpus.
 
 # Table of contents
 
-- [Dataset structure](https://github.com/sberdevices/golos/#dataset-structure)
-- [Downloads](https://github.com/sberdevices/golos/#downloads)
-  - [Audio files in opus format](https://github.com/sberdevices/golos/#audio-files-in-opus-format)
-  - [Audio files in wav format](https://github.com/sberdevices/golos/#audio-files-in-wav-format)
-  - [Acoustic and language models](https://github.com/sberdevices/golos/#acoustic-and-language-models)
-- [Evaluation](https://github.com/sberdevices/golos/#evaluation)
-- [Resources](https://github.com/sberdevices/golos/#resources)
-- [License](https://github.com/sberdevices/golos/#license)
-- [Contacts](https://github.com/sberdevices/golos/#contacts)
+- [Dataset structure](https://github.com/salute-developers/golos/#dataset-structure)
+- [Downloads](https://github.com/salute-developers/golos/#downloads)
+  - [Audio files in opus format](https://github.com/salute-developers/golos/#audio-files-in-opus-format)
+  - [Audio files in wav format](https://github.com/salute-developers/golos/#audio-files-in-wav-format)
+  - [Acoustic and language models](https://github.com/salute-developers/golos/#acoustic-and-language-models)
+- [Evaluation](https://github.com/salute-developers/golos/#evaluation)
+- [Resources](https://github.com/salute-developers/golos/#resources)
+- [License](https://github.com/salute-developers/golos/#license)
+- [Contacts](https://github.com/salute-developers/golos/#contacts)
 
 
 ## **Dataset structure**
@@ -29,7 +29,7 @@ Also we create 3-gram KenLM language model using an open Common Crawl corpus.
 
 ## **Downloads**
 
-[MD5 Checksums](https://github.com/sberdevices/golos/blob/master/md5sum.txt)
+[MD5 Checksums](https://github.com/salute-developers/golos/blob/master/md5sum.txt)
 
 
 ### **Audio files in opus format**
@@ -69,8 +69,8 @@ Acoustic model built using [QuartzNet15x5](https://arxiv.org/pdf/1910.10261.pdf)
 Three n-gram language models created using [KenLM Language Model Toolkit](https://kheafield.com/code/kenlm)
 
 * LM built on [Common Crawl](https://commoncrawl.org) Russian dataset
-* LM built on [Golos](https://github.com/sberdevices/golos) train set
-* LM built on [Common Crawl](https://commoncrawl.org) and [Golos](https://github.com/sberdevices/golos) datasets together (50/50)
+* LM built on [Golos](https://github.com/salute-developers/golos) train set
+* LM built on [Common Crawl](https://commoncrawl.org) and [Golos](https://github.com/salute-developers/golos) datasets together (50/50)
 
 | Archives                 | Size       |  Links          |
 |--------------------------|------------|-----------------|
@@ -106,9 +106,9 @@ Percents of Word Error Rate for different test sets
 
 ## **License**
 
-[English Version](https://github.com/sberdevices/golos/blob/master/license/en_us.pdf)
+[English Version](https://github.com/salute-developers/golos/blob/master/license/en_us.pdf)
 
-[Russian Version](https://github.com/sberdevices/golos/blob/master/license/ru.pdf)
+[Russian Version](https://github.com/salute-developers/golos/blob/master/license/ru.pdf)
 
 ## **Contacts**
 
