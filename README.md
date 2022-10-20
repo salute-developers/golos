@@ -75,6 +75,7 @@ Three n-gram language models created using [KenLM Language Model Toolkit](https:
 | Archives                 | Size       |  Links          |
 |--------------------------|------------|-----------------|
 | QuartzNet15x5_golos.nemo | 68 MB      | https://sc.link/ZMv |
+| CitriNet_ru1024bpe.tgz   | 541 MB     | https://sc.link/qvO7 |
 | KenLMs.tar               | 4.8 GB     | https://sc.link/YL0  |
 
 
