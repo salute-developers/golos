@@ -4,15 +4,15 @@ Golos — это датасет для распознавания речи на 
 
 # Содержание
 
-- [Структура датасета](https://github.com/salute-developers/golos/blob/master/README_ru.md/#Структура-датасета)
-- [Скачать](https://github.com/salute-developers/golos/blob/master/README_ru.md/#Скачать)
-  - [Аудиофайлы в формате opus](https://github.com/salute-developers/golos/blob/master/README_ru.md/#Аудиофайлы-в-формате-opus)
-  - [Аудиофайлы в формате wav](https://github.com/salute-developers/golos/blob/master/README_ru.md/#Аудиофайлы-в-формате-wav)
-  - [Акустические и языковые модели](https://github.com/salute-developers/golos/blob/master/README_ru.md/#Акустические-и-языковые-модели)
-- [Оценка качества](https://github.com/salute-developers/golos/blob/master/README_ru.md/#Оценка-качества)
-- [Полезные ссылки](https://github.com/salute-developers/golos/blob/master/README_ru.md/#Полезные-ссылки)
-- [Лицензия](https://github.com/salute-developers/golos/blob/master/README_ru.md/#Лицензия)
-- [Контакты](https://github.com/salute-developers/golos/blob/master/README_ru.md/#Контакты)
+- [Структура датасета](https://github.com/salute-developers/golos/blob/master/golos/README_ru.md/#Структура-датасета)
+- [Скачать](https://github.com/salute-developers/golos/blob/master/golos/README_ru.md/#Скачать)
+  - [Аудиофайлы в формате opus](https://github.com/salute-developers/golos/blob/master/golos/README_ru.md/#Аудиофайлы-в-формате-opus)
+  - [Аудиофайлы в формате wav](https://github.com/salute-developers/golos/blob/master/golos/README_ru.md/#Аудиофайлы-в-формате-wav)
+  - [Акустические и языковые модели](https://github.com/salute-developers/golos/blob/master/golos/README_ru.md/#Акустические-и-языковые-модели)
+- [Оценка качества](https://github.com/salute-developers/golos/blob/master/golos/README_ru.md/#Оценка-качества)
+- [Полезные ссылки](https://github.com/salute-developers/golos/blob/master/golos/README_ru.md/#Полезные-ссылки)
+- [Лицензия](https://github.com/salute-developers/golos/blob/master/golos/README_ru.md/#Лицензия)
+- [Контакты](https://github.com/salute-developers/golos/blob/master/golos/README_ru.md/#Контакты)
 
 
 ## **Структура датасета**
@@ -27,7 +27,7 @@ Golos — это датасет для распознавания речи на 
 
 ## **Скачать**
 
-[MD5 контральные суммы](https://github.com/salute-developers/golos/blob/master/md5sum.txt)
+[MD5 контральные суммы](https://github.com/salute-developers/golos/blob/master/golos/md5sum.txt)
 
 
 ### **Аудиофайлы в формате opus**
@@ -68,7 +68,7 @@ Golos — это датасет для распознавания речи на 
 
 * LM на русских текстах корпуса [Common Crawl](https://commoncrawl.org) 
 * LM на текстах транскрипций обучающей подвыборки [Golos](https://github.com/salute-developers/golos)
-* LM на русских текстах [Common Crawl](https://commoncrawl.org) и транскрипциях [Golos](https://github.com/salute-developers/golos) вместе (50/50)
+* LM на русских текстах [Common Crawl](https://commoncrawl.org) и транскрипциях [Golos](https://github.com/salute-developers/golos/tree/master/golos) вместе (50/50)
 
 | Архивы                   | Объем      |  Ссылки          |
 |--------------------------|------------|-----------------|
@@ -104,9 +104,9 @@ Golos — это датасет для распознавания речи на 
 
 ## **Лицензия**
 
-[Английская версия](https://github.com/salute-developers/golos/blob/master/license/en_us.pdf)
+[Английская версия](https://github.com/salute-developers/golos/blob/master/golos/license/en_us.pdf)
 
-[Русская версия](https://github.com/salute-developers/golos/blob/master/license/ru.pdf)
+[Русская версия](https://github.com/salute-developers/golos/blob/master/golos/license/ru.pdf)
 
 ## **Контакты**
 

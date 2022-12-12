@@ -1,0 +1,11 @@
+# numpy==1.19.5
+lazycon==0.3.1 # see https://github.com/maxme1/lazycon
+torch==1.8.1+cu101
+torchvision==0.9.1+cu101
+torchaudio==0.8.1
+pathlib==1.0.1
+librosa==0.7.1
+tqdm==4.55.1
+pandas==1.1.5
+scikit-learn==0.24.0
+tensorboard==2.4.1
