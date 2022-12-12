@@ -37,9 +37,9 @@ With this repository you can perform [raw data processing](https://github.com/sa
 ---
 ## **License**
 
-[English Version](https://github.com/salute-developers/golos/blob/master/dusha/license/en_us.pdf)
+[English Version](https://github.com/salute-developers/golos/blob/master/license/en_us.pdf)
 
-[Russian Version](https://github.com/salute-developers/golos/blob/master/dusha/license/ru.pdf)
+[Russian Version](https://github.com/salute-developers/golos/blob/master/license/ru.pdf)
 
 ---
 ## **Contacts**

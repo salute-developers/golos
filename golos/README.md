@@ -107,9 +107,9 @@ Percents of Word Error Rate for different test sets
 
 ## **License**
 
-[English Version](https://github.com/salute-developers/golos/blob/master/golos/license/en_us.pdf)
+[English Version](https://github.com/salute-developers/golos/blob/master/license/en_us.pdf)
 
-[Russian Version](https://github.com/salute-developers/golos/blob/master/golos/license/ru.pdf)
+[Russian Version](https://github.com/salute-developers/golos/blob/master/license/ru.pdf)
 
 ## **Contacts**
 

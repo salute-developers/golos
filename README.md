@@ -1,4 +1,4 @@
-# Open and Free Datasets and Models by SberDevices
+# Open and Free Datasets and Models by Salute Developers
 
 
 ## [Golos dataset](https://github.com/salute-developers/golos/tree/master/golos#golos-dataset) 

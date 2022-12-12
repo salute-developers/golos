@@ -104,9 +104,9 @@ Golos — это датасет для распознавания речи на 
 
 ## **Лицензия**
 
-[Английская версия](https://github.com/salute-developers/golos/blob/master/golos/license/en_us.pdf)
+[Английская версия](https://github.com/salute-developers/golos/blob/master/license/en_us.pdf)
 
-[Русская версия](https://github.com/salute-developers/golos/blob/master/golos/license/ru.pdf)
+[Русская версия](https://github.com/salute-developers/golos/blob/master/license/ru.pdf)
 
 ## **Контакты**
 
