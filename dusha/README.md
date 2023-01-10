@@ -23,7 +23,7 @@ Dusha is a bi-modal corpus suitable for speech emotion recognition (SER) tasks. 
 
 ## **Downloads**
 
-According to the license issue, we can't provide audio files of podcasts. We provide the whole set of precalculated features and a list of links to podcasts with timings where you can listen to original sound.
+According to the license issue, we can't provide audio files of podcasts. We provide the whole set of precalculated features and a list of links to podcasts with timings where you can listen to original sound (Also see Issue https://github.com/salute-developers/golos/issues/1).
 
 | Archives          | Size       |  Links               |
 |-------------------|------------|----------------------|
