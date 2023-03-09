@@ -99,11 +99,24 @@ Percents of Word Error Rate for different test sets
 
 ##  **Resources**
 
-[[arxiv.org] Golos: Russian Dataset for Speech Research](https://arxiv.org/abs/2106.10161)
+[[INTERSPEECH 2021] Golos: Russian Dataset for Speech Research](https://www.isca-speech.org/archive/pdfs/interspeech_2021/karpov21_interspeech.pdf)
 
 [[habr.com] Golos — самый большой русскоязычный речевой датасет, размеченный вручную, теперь в открытом доступе](https://habr.com/ru/company/sberdevices/blog/559496/)
 
 [[habr.com] Как улучшить распознавание русской речи до 3% WER с помощью открытых данных](https://habr.com/ru/company/sberdevices/blog/569082/)
+
+## **Cite**
+Karpov, N., Denisenko, A., Minkin, F. (2021) Golos: Russian Dataset for Speech Research. Proc. Interspeech 2021, 1419-1423, doi: 10.21437/Interspeech.2021-462
+```
+@inproceedings{karpov21_interspeech,
+  author={Nikolay Karpov and Alexander Denisenko and Fedor Minkin},
+  title={{Golos: Russian Dataset for Speech Research}},
+  year=2021,
+  booktitle={Proc. Interspeech 2021},
+  pages={1419--1423},
+  doi={10.21437/Interspeech.2021-462}
+}
+```
 
 ## **License**
 
