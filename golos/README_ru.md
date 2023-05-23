@@ -32,9 +32,9 @@ Golos — это датасет для распознавания речи на 
 
 ### **Аудиофайлы в формате opus**
 
-| Archive          | Size       |  Link               |
-|------------------|------------|---------------------|
-| golos_opus.tar   | 20.5 GB    | https://sc.link/JpD |
+| Archive          | Size       | Link                                                                                         |
+|------------------|------------|----------------------------------------------------------------------------------------------|
+| golos_opus.tar   | 20.5 GB    | [golos_opus.tar](https://n-ws-3jtx8.s3pd12.sbercloud.ru/b-ws-3jtx8-eir/golos/golos_opus.tar) |
 
 ---
 
@@ -42,20 +42,20 @@ Golos — это датасет для распознавания речи на 
 
 Файл с транскрипциями записей всего обучающего подмножества доступен в архиве train_crowd9.tar, доступный по ссылке в таблице:
 
-| Archives          | Size       |  Links              |
-|-------------------|------------|---------------------|
-| train_farfield.tar| 15.4 GB    | https://sc.link/1Z3 |
-| train_crowd0.tar  | 11 GB      | https://sc.link/Lrg |
-| train_crowd1.tar  | 14 GB      | https://sc.link/MvQ |
-| train_crowd2.tar  | 13.2 GB    | https://sc.link/NwL |
-| train_crowd3.tar  | 11.6 GB    | https://sc.link/Oxg |
-| train_crowd4.tar  | 15.8 GB    | https://sc.link/Pyz |
-| train_crowd5.tar  | 13.1 GB    | https://sc.link/Qz7 |
-| train_crowd6.tar  | 15.7 GB    | https://sc.link/RAL |
-| train_crowd7.tar  | 12.7 GB    | https://sc.link/VG5 |
-| train_crowd8.tar  | 12.2 GB    | https://sc.link/WJW |
-| train_crowd9.tar  | 8.08 GB    | https://sc.link/XKk |
-| test.tar          | 1.3 GB     | https://sc.link/Kqr |
+| Archives          | Size       | Links                                                                                                |
+|-------------------|------------|------------------------------------------------------------------------------------------------------|
+| train_farfield.tar| 15.4 GB    | [train_farfield.tar](https://n-ws-3jtx8.s3pd12.sbercloud.ru/b-ws-3jtx8-eir/golos/train_farfield.tar) |
+| train_crowd0.tar  | 11 GB      | [train_crowd0.tar](https://n-ws-3jtx8.s3pd12.sbercloud.ru/b-ws-3jtx8-eir/golos/train_crowd0.tar)     |
+| train_crowd1.tar  | 14 GB      | [train_crowd1.tar](https://n-ws-3jtx8.s3pd12.sbercloud.ru/b-ws-3jtx8-eir/golos/train_crowd1.tar)     |
+| train_crowd2.tar  | 13.2 GB    | [train_crowd2.tar](https://n-ws-3jtx8.s3pd12.sbercloud.ru/b-ws-3jtx8-eir/golos/train_crowd2.tar)     |
+| train_crowd3.tar  | 11.6 GB    | [train_crowd3.tar](https://n-ws-3jtx8.s3pd12.sbercloud.ru/b-ws-3jtx8-eir/golos/train_crowd3.tar)     |
+| train_crowd4.tar  | 15.8 GB    | [train_crowd4.tar](https://n-ws-3jtx8.s3pd12.sbercloud.ru/b-ws-3jtx8-eir/golos/train_crowd4.tar)     |
+| train_crowd5.tar  | 13.1 GB    | [train_crowd5.tar](https://n-ws-3jtx8.s3pd12.sbercloud.ru/b-ws-3jtx8-eir/golos/train_crowd5.tar)     |
+| train_crowd6.tar  | 15.7 GB    | [train_crowd6.tar](https://n-ws-3jtx8.s3pd12.sbercloud.ru/b-ws-3jtx8-eir/golos/train_crowd6.tar)     |
+| train_crowd7.tar  | 12.7 GB    | [train_crowd7.tar](https://n-ws-3jtx8.s3pd12.sbercloud.ru/b-ws-3jtx8-eir/golos/train_crowd7.tar)     |
+| train_crowd8.tar  | 12.2 GB    | [train_crowd8.tar](https://n-ws-3jtx8.s3pd12.sbercloud.ru/b-ws-3jtx8-eir/golos/train_crowd8.tar)     |
+| train_crowd9.tar  | 8.08 GB    | [train_crowd9.tar](https://n-ws-3jtx8.s3pd12.sbercloud.ru/b-ws-3jtx8-eir/golos/train_crowd9.tar)     |
+| test.tar          | 1.3 GB     | [test.tar](https://n-ws-3jtx8.s3pd12.sbercloud.ru/b-ws-3jtx8-eir/golos/test.tar)                     |
 
 ---
 
@@ -70,10 +70,11 @@ Golos — это датасет для распознавания речи на 
 * LM на текстах транскрипций обучающей подвыборки [Golos](https://github.com/salute-developers/golos)
 * LM на русских текстах [Common Crawl](https://commoncrawl.org) и транскрипциях [Golos](https://github.com/salute-developers/golos/tree/master/golos) вместе (50/50)
 
-| Архивы                   | Объем      |  Ссылки          |
-|--------------------------|------------|-----------------|
-| QuartzNet15x5_golos.nemo | 68 MB      | https://sc.link/ZMv |
-| KenLMs.tar               | 4.8 GB     | https://sc.link/YL0  |
+| Archives                 | Size       | Links                                                                                                                 |
+|--------------------------|------------|-----------------------------------------------------------------------------------------------------------------------|
+| QuartzNet15x5_golos.nemo | 68 MB      | [QuartzNet15x5_golos.nemo](https://n-ws-3jtx8.s3pd12.sbercloud.ru/b-ws-3jtx8-eir/golos/QuartzNet15x5_golos.nemo)      |
+| CitriNet_ru1024bpe.tgz   | 541 MB     | [CitriNet_ru1024bpe.tgz](https://n-ws-q0bez.s3pd12.sbercloud.ru/b-ws-q0bez-jpv/golos/citrinet/CitriNet_ru1024bpe.tgz) |
+| KenLMs.tar               | 4.8 GB     | [KenLMs.tar](https://n-ws-3jtx8.s3pd12.sbercloud.ru/b-ws-3jtx8-eir/golos/kenlms.tar)                                  |
 
 
 Все данные и модели Golos также доступны в хранилище DataHub ML Space. Там распологаются предобученные модели, датасеты и Docker-образы.

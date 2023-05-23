@@ -25,12 +25,12 @@ Dusha is a bi-modal corpus suitable for speech emotion recognition (SER) tasks. 
 
 According to the license issue, we can't provide audio files of podcasts. We provide the whole set of precalculated features and a list of links to podcasts with timings where you can listen to original sound (Also see Issue https://github.com/salute-developers/golos/issues/1).
 
-| Archives          | Size       |  Links               |
-|-------------------|------------|----------------------|
-| crowd.tar         | 28 GB      | https://sc.link/ByGN |
-| podcast.tar       | 360 MB     | https://sc.link/zoEy |
-| features.tar      | 30 GB      | https://sc.link/By2Y |
-| paper_setups.tgz  | 16 MB      | https://sc.link/mPmO |
+| Archives          | Size       | Links                                                                                            |
+|-------------------|------------|--------------------------------------------------------------------------------------------------|
+| crowd.tar         | 28 GB      | [crowd.tar](https://n-ws-q0bez.s3pd12.sbercloud.ru/b-ws-q0bez-jpv/dusha/crowd.tar)               |
+| podcast.tar       | 360 MB     | [podcast.tar](https://n-ws-q0bez.s3pd12.sbercloud.ru/b-ws-q0bez-jpv/dusha/podcast.tar)           |
+| features.tar      | 30 GB      | [features.tar](https://n-ws-q0bez.s3pd12.sbercloud.ru/b-ws-q0bez-jpv/dusha/features.tar)         |
+| paper_setups.tgz  | 16 MB      | [paper_setups.tgz](https://n-ws-q0bez.s3pd12.sbercloud.ru/b-ws-q0bez-jpv/dusha/paper_setups.tgz) |
 
 
 With this repository you can perform [raw data processing](https://github.com/salute-developers/golos/tree/master/dusha/data_processing) or [run and evaluate experiments](https://github.com/salute-developers/golos/tree/master/dusha/experiments).
