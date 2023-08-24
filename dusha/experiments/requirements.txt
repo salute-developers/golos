@@ -1,6 +1,6 @@
 # numpy==1.19.5
 lazycon==0.3.1 # see https://github.com/maxme1/lazycon
-torch==1.8.1+cu101
+torch==1.13.1
 torchvision==0.9.1+cu101
 torchaudio==0.8.1
 pathlib==1.0.1
