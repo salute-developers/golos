@@ -2,5 +2,5 @@ pandas==1.3.5
 crowd-kit==1.0.0
 click==8.0.4
 tqdm==4.62.3
-numpy==1.21.5
+numpy==1.22.0
 librosa==0.8.1
