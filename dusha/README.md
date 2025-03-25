@@ -27,10 +27,10 @@ According to the license issue, we can't provide audio files of podcasts. We pro
 
 | Archives          | Size       | Links                                                                                            |
 |-------------------|------------|--------------------------------------------------------------------------------------------------|
-| crowd.tar         | 28 GB      | [crowd.tar](https://n-ws-q0bez.s3pd12.sbercloud.ru/b-ws-q0bez-jpv/dusha/crowd.tar)               |
-| podcast.tar       | 360 MB     | [podcast.tar](https://n-ws-q0bez.s3pd12.sbercloud.ru/b-ws-q0bez-jpv/dusha/podcast.tar)           |
-| features.tar      | 30 GB      | [features.tar](https://n-ws-q0bez.s3pd12.sbercloud.ru/b-ws-q0bez-jpv/dusha/features.tar)         |
-| paper_setups.tgz  | 16 MB      | [paper_setups.tgz](https://n-ws-q0bez.s3pd12.sbercloud.ru/b-ws-q0bez-jpv/dusha/paper_setups.tgz) |
+| crowd.tar         | 28 GB      | [crowd.tar](https://cdn.chatwm.opensmodel.sberdevices.ru/dusha/crowd.tar)               |
+| podcast.tar       | 360 MB     | [podcast.tar](https://cdn.chatwm.opensmodel.sberdevices.ru/dusha/podcast.tar)           |
+| features.tar      | 30 GB      | [features.tar](https://cdn.chatwm.opensmodel.sberdevices.ru/dusha/features.tar)         |
+| paper_setups.tgz  | 16 MB      | [paper_setups.tgz](https://cdn.chatwm.opensmodel.sberdevices.ru/dusha/paper_setups.tgz) |
 
 
 With this repository you can perform [raw data processing](https://github.com/salute-developers/golos/tree/master/dusha/data_processing) or [run and evaluate experiments](https://github.com/salute-developers/golos/tree/master/dusha/experiments).
